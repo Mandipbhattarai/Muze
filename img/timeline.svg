@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="272px" height="147px" viewBox="0 0 272 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 27</title>
+    <defs>
+        <linearGradient x1="91.3757324%" y1="20.3503667%" x2="3.26741536%" y2="82.0083307%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0042FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="maindemo" transform="translate(-824.000000, -2943.000000)">
+            <g id="Group-64" transform="translate(0.000000, 2667.000000)">
+                <g id="Group-25" transform="translate(405.000000, 120.000000)">
+                    <g id="Group-11-Copy" transform="translate(380.000000, 0.000000)">
+                        <g id="Group-27" transform="translate(40.000000, 156.000000)">
+                            <rect id="Rectangle" stroke="#007BFF" fill="#FFFFFF" x="0" y="18" width="270" height="29" rx="14.5"></rect>
+                            <rect id="Rectangle-Copy-9" stroke="#007BFF" stroke-width="0.5" fill="#F4F4F4" x="0" y="18" width="197" height="29" rx="14.5"></rect>
+                            <rect id="Rectangle-Copy-10" stroke="#007BFF" stroke-width="0.5" fill="#FBEAEB" x="0" y="47" width="270" height="29" rx="14.5"></rect>
+                            <rect id="Rectangle-Copy-12" stroke="#007BFF" fill="#FFFFFF" x="0" y="47" width="270" height="29" rx="14.5"></rect>
+                            <rect id="Rectangle-Copy-11" stroke="#007BFF" fill="#FFFFFF" x="0" y="76" width="270" height="29" rx="14.5"></rect>
+                            <rect id="Rectangle-Copy-14" stroke="#007BFF" fill="#FFFFFF" x="0" y="105" width="270" height="29" rx="14.5"></rect>
+                            <rect id="Rectangle-Copy-13" stroke="#007BFF" stroke-width="0.5" fill="#E3FFF7" x="0" y="76" width="197" height="29" rx="14.5"></rect>
+                            <rect id="Rectangle-Copy-15" stroke="#007BFF" stroke-width="0.5" fill="#F4F4F4" x="208" y="105" width="62" height="29" rx="14.5"></rect>
+                            <rect id="Rectangle" fill="#007BFF" transform="translate(135.000000, 75.000000) rotate(-90.000000) translate(-135.000000, -75.000000) " x="63.5" y="74.5" width="143" height="1" rx="0.5"></rect>
+                            <path d="M135,0.992317428 L141.129482,11.5 L128.870518,11.5 L135,0.992317428 Z" id="Triangle" stroke="#007BFF" fill="url(#linearGradient-1)" transform="translate(135.000000, 6.000000) rotate(-180.000000) translate(-135.000000, -6.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

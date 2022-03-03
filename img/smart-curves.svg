@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="270px" height="147px" viewBox="0 0 270 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 30</title>
+    <defs>
+        <linearGradient x1="91.3757324%" y1="9.64355469%" x2="3.26741536%" y2="93.5668945%" id="linearGradient-1">
+            <stop stop-color="#20C997" offset="0%"></stop>
+            <stop stop-color="#91FFDE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.3757324%" y1="9.64355469%" x2="3.26741536%" y2="93.5668945%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0042FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="maindemo" transform="translate(-1205.000000, -2943.000000)">
+            <g id="Group-64" transform="translate(0.000000, 2667.000000)">
+                <g id="Group-25" transform="translate(405.000000, 120.000000)">
+                    <g id="Group-11-Copy-2" transform="translate(760.000000, 0.000000)">
+                        <g id="Group-30" transform="translate(40.000000, 156.000000)">
+                            <g id="Group-31" transform="translate(137.215797, 102.234895) rotate(-15.000000) translate(-137.215797, -102.234895) translate(128.215797, 74.234895)" stroke="#007BFF">
+                                <line x1="17.6775829" y1="0.576599214" x2="4.5" y2="49.5063477" id="Path-9"></line>
+                                <circle id="Oval-Copy-2" fill="#FFFFFF" cx="4" cy="51.8703087" r="3.5"></circle>
+                            </g>
+                            <path d="M6.13603897,6.13646876 C80.2846743,-1.30325288 124.118008,20.6888993 137.636039,72.1129253 C151.15407,123.536951 193.15407,146.377989 263.636039,140.636039" id="Path-7" stroke="#007BFF"></path>
+                            <circle id="Oval" fill="url(#linearGradient-1)" cx="138" cy="72" r="8"></circle>
+                            <rect id="Rectangle-Copy-5" stroke="#007BFF" fill="url(#linearGradient-2)" transform="translate(6.500000, 6.500000) rotate(-315.000000) translate(-6.500000, -6.500000) " x="2.5" y="2.5" width="8" height="8"></rect>
+                            <rect id="Rectangle-Copy-16" stroke="#007BFF" fill="url(#linearGradient-2)" transform="translate(263.636039, 140.636039) rotate(-315.000000) translate(-263.636039, -140.636039) " x="259.636039" y="136.636039" width="8" height="8"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="270px" height="147px" viewBox="0 0 270 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 26</title>
+    <defs>
+        <linearGradient x1="91.3757324%" y1="9.64355469%" x2="3.26741536%" y2="93.5668945%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0042FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.3757324%" y1="9.64355469%" x2="3.26741536%" y2="93.5668945%" id="linearGradient-2">
+            <stop stop-color="#20C997" offset="0%"></stop>
+            <stop stop-color="#91FFDE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="maindemo" transform="translate(-446.000000, -2974.000000)">
+            <g id="Group-64" transform="translate(0.000000, 2667.000000)">
+                <g id="Group-25" transform="translate(405.000000, 120.000000)">
+                    <g id="Group-26" transform="translate(41.000000, 187.000000)">
+                        <g id="Group-27-Copy-2">
+                            <rect id="Rectangle" fill="#FFFFFF" x="6.5" y="6" width="179" height="105"></rect>
+                            <rect id="Rectangle" fill="#007BFF" x="9" y="6" width="175" height="1" rx="0.5"></rect>
+                            <rect id="Rectangle-Copy-2" fill="#007BFF" x="9" y="111" width="175" height="1" rx="0.5"></rect>
+                            <path d="M-45.5,59 L58.5,59 C58.7761424,59 59,59.2238576 59,59.5 C59,59.7761424 58.7761424,60 58.5,60 L-45.5,60 C-45.7761424,60 -46,59.7761424 -46,59.5 C-46,59.2238576 -45.7761424,59 -45.5,59 Z" id="Rectangle-Copy-3" fill="#007BFF" transform="translate(6.500000, 59.500000) rotate(-270.000000) translate(-6.500000, -59.500000) "></path>
+                            <path d="M134,58.5 L237,58.5 C237.276142,58.5 237.5,58.7238576 237.5,59 C237.5,59.2761424 237.276142,59.5 237,59.5 L134,59.5 C133.723858,59.5 133.5,59.2761424 133.5,59 C133.5,58.7238576 133.723858,58.5 134,58.5 Z" id="Rectangle-Copy-4" fill="#007BFF" transform="translate(185.500000, 59.000000) rotate(-270.000000) translate(-185.500000, -59.000000) "></path>
+                            <rect id="Rectangle" stroke="#007BFF" fill="url(#linearGradient-1)" transform="translate(6.500000, 6.500000) rotate(-315.000000) translate(-6.500000, -6.500000) " x="2.5" y="2.5" width="8" height="8"></rect>
+                            <rect id="Rectangle-Copy-6" stroke="#007BFF" fill="url(#linearGradient-1)" transform="translate(6.500000, 111.500000) rotate(-315.000000) translate(-6.500000, -111.500000) " x="2.5" y="107.5" width="8" height="8"></rect>
+                            <rect id="Rectangle-Copy-5" stroke="#007BFF" fill="url(#linearGradient-1)" transform="translate(185.500000, 6.500000) rotate(-315.000000) translate(-185.500000, -6.500000) " x="181.5" y="2.5" width="8" height="8"></rect>
+                            <rect id="Rectangle-Copy-8" stroke="#007BFF" fill="url(#linearGradient-1)" transform="translate(185.500000, 111.500000) rotate(-315.000000) translate(-185.500000, -111.500000) " x="181.5" y="107.5" width="8" height="8"></rect>
+                        </g>
+                        <g id="Group-27-Copy" transform="translate(78.000000, 29.000000)">
+                            <rect id="Rectangle" fill="#E3FFF7" x="6" y="6" width="179" height="105"></rect>
+                            <rect id="Rectangle" fill="#007BFF" x="9" y="6" width="175" height="1" rx="0.5"></rect>
+                            <rect id="Rectangle-Copy-2" fill="#007BFF" x="9" y="111" width="175" height="1" rx="0.5"></rect>
+                            <path d="M-45.5,59 L58.5,59 C58.7761424,59 59,59.2238576 59,59.5 C59,59.7761424 58.7761424,60 58.5,60 L-45.5,60 C-45.7761424,60 -46,59.7761424 -46,59.5 C-46,59.2238576 -45.7761424,59 -45.5,59 Z" id="Rectangle-Copy-3" fill="#007BFF" transform="translate(6.500000, 59.500000) rotate(-270.000000) translate(-6.500000, -59.500000) "></path>
+                            <path d="M134,58.5 L237,58.5 C237.276142,58.5 237.5,58.7238576 237.5,59 C237.5,59.2761424 237.276142,59.5 237,59.5 L134,59.5 C133.723858,59.5 133.5,59.2761424 133.5,59 C133.5,58.7238576 133.723858,58.5 134,58.5 Z" id="Rectangle-Copy-4" fill="#007BFF" transform="translate(185.500000, 59.000000) rotate(-270.000000) translate(-185.500000, -59.000000) "></path>
+                            <rect id="Rectangle" stroke="#007BFF" fill="url(#linearGradient-2)" transform="translate(6.500000, 6.500000) rotate(-315.000000) translate(-6.500000, -6.500000) " x="2.5" y="2.5" width="8" height="8"></rect>
+                            <rect id="Rectangle-Copy-6" stroke="#007BFF" fill="url(#linearGradient-2)" transform="translate(6.500000, 111.500000) rotate(-315.000000) translate(-6.500000, -111.500000) " x="2.5" y="107.5" width="8" height="8"></rect>
+                            <rect id="Rectangle-Copy-5" stroke="#007BFF" fill="url(#linearGradient-2)" transform="translate(185.500000, 6.500000) rotate(-315.000000) translate(-185.500000, -6.500000) " x="181.5" y="2.5" width="8" height="8"></rect>
+                            <rect id="Rectangle-Copy-8" stroke="#007BFF" fill="url(#linearGradient-2)" transform="translate(185.500000, 111.500000) rotate(-315.000000) translate(-185.500000, -111.500000) " x="181.5" y="107.5" width="8" height="8"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
